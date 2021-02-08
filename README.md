@@ -14,6 +14,6 @@ The Assembless logo is available in three color schemes: white, neutral and blac
 ![Black Full](/logos/banners/assembless_banner03.png?raw=true "Assembless Black")
 
 
-![White Logo](/logos/examples/logo_white.png.png?raw=true "Assembless White")
-![Neutral Logo](/logos/examples/logo_neutral.png.png?raw=true "Assembless Neutral")
-![Black Logo](/logos/examples/logo_black.png.png?raw=true "Assembless Black")
+![White Logo](/logos/examples/logo_white.png?raw=true "Assembless White")
+![Neutral Logo](/logos/examples/logo_neutral.png?raw=true "Assembless Neutral")
+![Black Logo](/logos/examples/logo_black.png?raw=true "Assembless Black")
