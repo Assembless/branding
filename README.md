@@ -20,4 +20,4 @@ The Assembless logo is available in three color schemes: white, neutral and blac
 
 ### Font
 
-The font used for "Assembless" is ![Futura Pt](https://fonts.adobe.com/fonts/futura-pt) weight **Heavy**. In the form of a logo, the "Assembless" text has to be all caps.
+The font used for "Assembless" is [Futura Pt](https://fonts.adobe.com/fonts/futura-pt) weight **Heavy**. In the form of a logo, the "Assembless" text has to be all caps.
